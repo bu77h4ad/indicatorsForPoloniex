@@ -6,5 +6,7 @@ indicators for poloniex
 2.Minimum
 
 3.SMA
+
 4.Price Channel
+
 5.RSI
