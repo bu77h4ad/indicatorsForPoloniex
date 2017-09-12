@@ -51,7 +51,8 @@ def PiceChannel( nPriod, chart, iBar=-1):
 
 def RSI(nPeriod, chart, iBar=-1):
 	"""
-	RSI (Relative Strength Index) или индекс относительной силы
+	Return (float) RSI (Relative Strength Index) или индекс относительной силы
+	
 	RSI = 100 - (100 / (1 + U / D))
 	RS = nPeriod( bulls bar / bears bar)
 	"""
